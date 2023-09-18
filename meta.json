@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-11T02:30:49.678Z",
                     "updatedAt": "2023-09-11T02:30:49.678Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfcb7a354d2965a9eba4/projects/64fe3f6beb9058f1ea695c1a/assets/64fe7bd9222794eade30d18b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230917%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230917T212937Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3c4ba51ddbee686db0b5c9939187561651dcee76de61d3d3271c21a4cd2faa26e3aeb47e8b281cc307d640a00951aad09b899823bd12cd3e0d26886675e9d1cc9bbc77d825a7ea48d5ffb70a6b944d75edc77c1b0bc0fab08855f86ceeee6cff982c5fdef2da6429c829425010885fad347b5d12c65862a28f343da44d6e1bbe1d34c6ab22e7cb0c430866cd2f8e083d8874119126248d6218125d8b62e55127a152dbf358a87e4a1ee4723a4e658d207d52f2f7dd44ff1fb14574e0520717bcc88298fd1fd35bd65f5ed9b0b39f742fbde62efe672288dddcb914c5fc3b01234c15e0899e2309ca6a2522239431e6be6298beafcf31c279ee663b2fd8a23afa",
-                    "signedUrlExpirationTime": 1695158977762
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfcb7a354d2965a9eba4/projects/64fe3f6beb9058f1ea695c1a/assets/64fe7bd9222794eade30d18b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230917%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230917T214512Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=0054c921651aa64e09ccd2b0890e8f8d6becdd2c0960f5bc3cc146760bd33c35db4701d4352197979db39d4e1731898643a9b44d16a4c3edee6d396ca8ff53040c270c43d0079c30add58e85d47ddf033500aec408d0029772a7cbe9f39ffab834dc4a365f0f90ac1f7680acebda5ece10321d89743b6facc716859cf94ae403978c0643c0d0e7cc4f031ff5ef11f0339540ce502e772dd3818c191a9a8a58283417db62e81f75362ce1a7449eb684b810f967894fd6338f37e9a22599e3d9a2554e7ff767c7469c887aa22a9187df1c16acfbec56e99cbd37064137bbb294c374a9d18c95358a76b07c48c00ce6773a9472f704e6482ac968340e4ecb78b93c",
+                    "signedUrlExpirationTime": 1695159912144
                 }
             },
             "backendUpgradeVersion": 21,
@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Eason's Camera App",
+            "projectName": "Eason's Camera App COPY",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -189,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
